@@ -1,9 +1,9 @@
 # Desafios da Rotina
 
-RPG textual acessivel para deficientes visuais em C, jogável no terminal.
- É um simulador narrativo de rotina doméstica com pegada de comédia e crítica social
- O protagonista é um homem de 25 anos, sedentário, faminto e com TDAH. 
- São 8h da manhã e sua missão é cumprir três tarefas simples antes do meio-dia: tirar o lixo do banheiro, comer algo e tomar banho.
+RPG textual acessivel para deficientes visuais em C e jogável no terminal.
+É um simulador narrativo de rotina doméstica com pegada de comédia e crítica social
+O protagonista é um homem de 25 anos, sedentário, faminto e com TDAH. 
+  São 8h da manhã e sua missão é cumprir três tarefas simples antes do meio-dia: tirar o lixo do banheiro, comer algo e tomar banho.
 
 Documentação principal:
 
