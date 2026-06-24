@@ -10,7 +10,7 @@ Documentação principal:
 - `docs/CHECKLIST_ACESSIBILIDADE.md`
 - `docs/LIMITACOES_CONHECIDAS.md`
 
-Execução rápida no Windows, a partir desta pasta:
+Execução rápida no Windows, a partir da pasta:
 
 ```powershell
 .\desafios_da_rotina.exe
